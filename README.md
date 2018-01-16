@@ -1,2 +1,1 @@
-# j-flick.github.io
-my bio
+# bootstrap-portfolio
